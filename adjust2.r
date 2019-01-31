@@ -33,16 +33,14 @@ tmpdir <-"tmpdir_temporary"
 tmpath <-file.path("//salt/bioinf_training/colin/RNA-seq/sort_bam_files/")
 dir.create(tmpath, showWarnings=FALSE)
 
-
 file <-paste(tmpath,"differential_expression3.csv",sep='/')
 write.csv(as.data.frame(res.ordered),file=file)
 
-#log transform and plot PCA
 rld <- rlog(dds, blind=FALSE)
 rld
 plotPCA(rld, intgroup="design1") 
 
-#Get coordinates of PCA plots
+#Get coordinates
 plotPCA(rld, intgroup="design1", returnData=TRUE) 
 ###################################################################################################################################################
 

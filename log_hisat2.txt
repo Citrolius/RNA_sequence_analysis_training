@@ -1,0 +1,148 @@
+PROCESSING
+34611609 reads; of these:
+  34611609 (100.00%) were paired; of these:
+    7065107 (20.41%) aligned concordantly 0 times
+    19781145 (57.15%) aligned concordantly exactly 1 time
+    7765357 (22.44%) aligned concordantly >1 times
+    ----
+    7065107 pairs aligned concordantly 0 times; of these:
+      444688 (6.29%) aligned discordantly 1 time
+    ----
+    6620419 pairs aligned 0 times concordantly or discordantly; of these:
+      13240838 mates make up the pairs; of these:
+        8632674 (65.20%) aligned 0 times
+        3056684 (23.09%) aligned exactly 1 time
+        1551480 (11.72%) aligned >1 times
+87.53% overall alignment rate
+hisat2 -q -x CSFBv1.2 -1 MW1_ATCACG_L007_R1_001.fastq.gz -2 MW1_ATCACG_L007_R2_001.fastq.gz -S MW1_ATCACG_L007.sam
+30489902 reads; of these:
+  30489902 (100.00%) were paired; of these:
+    5996724 (19.67%) aligned concordantly 0 times
+    18208910 (59.72%) aligned concordantly exactly 1 time
+    6284268 (20.61%) aligned concordantly >1 times
+    ----
+    5996724 pairs aligned concordantly 0 times; of these:
+      385044 (6.42%) aligned discordantly 1 time
+    ----
+    5611680 pairs aligned 0 times concordantly or discordantly; of these:
+      11223360 mates make up the pairs; of these:
+        7393637 (65.88%) aligned 0 times
+        2593062 (23.10%) aligned exactly 1 time
+        1236661 (11.02%) aligned >1 times
+87.88% overall alignment rate
+31086696 reads; of these:
+  31086696 (100.00%) were paired; of these:
+    5658429 (18.20%) aligned concordantly 0 times
+    18828156 (60.57%) aligned concordantly exactly 1 time
+    6600111 (21.23%) aligned concordantly >1 times
+    ----
+    5658429 pairs aligned concordantly 0 times; of these:
+      395170 (6.98%) aligned discordantly 1 time
+    ----
+    5263259 pairs aligned 0 times concordantly or discordantly; of these:
+      10526518 mates make up the pairs; of these:
+        6774651 (64.36%) aligned 0 times
+        2537971 (24.11%) aligned exactly 1 time
+        1213896 (11.53%) aligned >1 times
+89.10% overall alignment rate
+38337316 reads; of these:
+  38337316 (100.00%) were paired; of these:
+    9167734 (23.91%) aligned concordantly 0 times
+    21394329 (55.81%) aligned concordantly exactly 1 time
+    7775253 (20.28%) aligned concordantly >1 times
+    ----
+    9167734 pairs aligned concordantly 0 times; of these:
+      364537 (3.98%) aligned discordantly 1 time
+    ----
+    8803197 pairs aligned 0 times concordantly or discordantly; of these:
+      17606394 mates make up the pairs; of these:
+        13652585 (77.54%) aligned 0 times
+        2650692 (15.06%) aligned exactly 1 time
+        1303117 (7.40%) aligned >1 times
+82.19% overall alignment rate
+24321964 reads; of these:
+  24321964 (100.00%) were paired; of these:
+    5020944 (20.64%) aligned concordantly 0 times
+    14293748 (58.77%) aligned concordantly exactly 1 time
+    5007272 (20.59%) aligned concordantly >1 times
+    ----
+    5020944 pairs aligned concordantly 0 times; of these:
+      274679 (5.47%) aligned discordantly 1 time
+    ----
+    4746265 pairs aligned 0 times concordantly or discordantly; of these:
+      9492530 mates make up the pairs; of these:
+        6148356 (64.77%) aligned 0 times
+        2245342 (23.65%) aligned exactly 1 time
+        1098832 (11.58%) aligned >1 times
+87.36% overall alignment rate
+35100585 reads; of these:
+  35100585 (100.00%) were paired; of these:
+    6947115 (19.79%) aligned concordantly 0 times
+    20544756 (58.53%) aligned concordantly exactly 1 time
+    7608714 (21.68%) aligned concordantly >1 times
+    ----
+    6947115 pairs aligned concordantly 0 times; of these:
+      379154 (5.46%) aligned discordantly 1 time
+    ----
+    6567961 pairs aligned 0 times concordantly or discordantly; of these:
+      13135922 mates make up the pairs; of these:
+        9210636 (70.12%) aligned 0 times
+        2631957 (20.04%) aligned exactly 1 time
+        1293329 (9.85%) aligned >1 times
+86.88% overall alignment rate
+29202570 reads; of these:
+  29202570 (100.00%) were paired; of these:
+    5519851 (18.90%) aligned concordantly 0 times
+    17487279 (59.88%) aligned concordantly exactly 1 time
+    6195440 (21.22%) aligned concordantly >1 times
+    ----
+    5519851 pairs aligned concordantly 0 times; of these:
+      344935 (6.25%) aligned discordantly 1 time
+    ----
+    5174916 pairs aligned 0 times concordantly or discordantly; of these:
+      10349832 mates make up the pairs; of these:
+        6687799 (64.62%) aligned 0 times
+        2485715 (24.02%) aligned exactly 1 time
+        1176318 (11.37%) aligned >1 times
+88.55% overall alignment rate
+31093077 reads; of these:
+  31093077 (100.00%) were paired; of these:
+    6100972 (19.62%) aligned concordantly 0 times
+    17528258 (56.37%) aligned concordantly exactly 1 time
+    7463847 (24.00%) aligned concordantly >1 times
+    ----
+    6100972 pairs aligned concordantly 0 times; of these:
+      394563 (6.47%) aligned discordantly 1 time
+    ----
+    5706409 pairs aligned 0 times concordantly or discordantly; of these:
+      11412818 mates make up the pairs; of these:
+        7452203 (65.30%) aligned 0 times
+        2663799 (23.34%) aligned exactly 1 time
+        1296816 (11.36%) aligned >1 times
+88.02% overall alignment rate
+MW1_ATCACG_L007
+[samopen] SAM header is present: 103383 sequences.
+[bam_sort_core] merging from 47 files...
+MW2_CGATGT_L007
+[samopen] SAM header is present: 103383 sequences.
+[bam_sort_core] merging from 41 files...
+MW3_TTAGGC_L007
+[samopen] SAM header is present: 103383 sequences.
+[bam_sort_core] merging from 42 files...
+MW4_TGACCA_L007
+[samopen] SAM header is present: 103383 sequences.
+[bam_sort_core] merging from 52 files...
+MW5_ACTTGA_L007
+[samopen] SAM header is present: 103383 sequences.
+[bam_sort_core] merging from 33 files...
+MW6_GATCAG_L007
+[samopen] SAM header is present: 103383 sequences.
+[bam_sort_core] merging from 47 files...
+MW7_TAGCTT_L007
+[samopen] SAM header is present: 103383 sequences.
+[bam_sort_core] merging from 39 files...
+MW8_CCGTCC_L007
+[samopen] SAM header is present: 103383 sequences.
+[bam_sort_core] merging from 44 files...
+
+[main_samview] fail to open ".sam" for reading.

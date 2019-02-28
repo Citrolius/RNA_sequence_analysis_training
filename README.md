@@ -1,3 +1,2 @@
 # minimalist_RNA_seq
-
-A minimalist Rscript to run DESeq after the completion of feature counts.
+A record of the training in analysing RNA-sequencing results from year in industry at Rothamsted.
